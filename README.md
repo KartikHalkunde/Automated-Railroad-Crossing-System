@@ -17,7 +17,7 @@ This is a simple **Physics mini-project** that automates a railroad crossing usi
 1. When a train approaches, the first IR sensor detects it, and the gate closes automatically.
 2. Once the train has passed, the second IR sensor confirms its departure, and the gate reopens.
 3. The servos control the gate’s movement, making the system fully automated.
-   ![Circuit Diagram](CircuitDiagram.png)
+   ![Circuit Diagram](media/CircuitDiagram.png)
    
 ## If you want to try this project yourself, follow these steps:
 
