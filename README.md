@@ -18,6 +18,13 @@ This is a simple **Physics mini-project** that automates a railroad crossing usi
 2. Once the train has passed, the second IR sensor confirms its departure, and the gate reopens.
 3. The servos control the gate’s movement, making the system fully automated.
    ![Circuit Diagram](media/CircuitDiagram.png)
+   ![ARCS-01](media/ARCS-01.HEIC)
+   ![ARCS-02](media/ARCS-02.HEIC)
+   ![ARCS-03](media/ARCS-03.HEIC)
+   ![ARCS-04](media/ARCS-04.HEIC)
+   ![ARCS-05](media/ARCS-05.HEIC)
+   ![ARCS-VID1](media/ARCS-VID1.MOV)
+   ![ARCS-VID2](media/ARCS-VID2.MOV)
    
 ## If you want to try this project yourself, follow these steps:
 
